@@ -1,0 +1,24 @@
+.container {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.row {
+    // display: grid;
+    margin: 1.5rem;
+}
+
+input {
+    width: 50%;
+    padding: .5rem;
+    border-radius: 5px;
+}
+.btn{
+    display: flex;
+    justify-content: center;
+}
+button {
+    width: 5rem;
+    padding: 0.2rem;
+}
